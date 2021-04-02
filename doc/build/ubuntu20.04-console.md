@@ -28,7 +28,6 @@ shell$ sudo cp /usr/bin/qemu-aarch64-static                $PWD/$targetdir/usr/b
 shell$ sudo cp /etc/resolv.conf                            $PWD/$targetdir/etc
 shell$ sudo cp scripts/build-ubuntu20.04-console-rootfs.sh $PWD/$targetdir
 shell$ sudo cp linux-*.deb                                 $PWD/$targetdir
-shell$ sudo cp files/*.deb                                 $PWD/$targetdir
 shell$ sudo cp files/xorg.conf                             $PWD/$targetdir
 shell$ sudo mount -vt proc proc                            $PWD/$targetdir/proc
 shell$ sudo mount -vt devpts devpts -o gid=5,mode=620      $PWD/$targetdir/dev/pts
