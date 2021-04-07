@@ -7,10 +7,13 @@ Overview
 ### Introduction
 
 This Repository provides a Linux Boot Image(U-boot, Kernel, Ubuntu 20.04 Desktop) for Ultra96/Ultra96-V2.
+Ubuntu Desktop is piloting Lima. Lima is an open source graphics driver for the Mali-400/450.
 
 ### Note
 
-This Repository is currentrly under development on the 'develop' branch.
+**This Repository is currentrly under development on the 'develop' branch.**
+**The Lima driver can launch gnome-shell. However, not all applications work.**
+**Please be careful when using it.**
 
 ### Features
 
