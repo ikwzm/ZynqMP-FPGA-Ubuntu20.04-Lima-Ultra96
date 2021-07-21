@@ -5,7 +5,7 @@
 **Note: Downloading the entire repository is time consuming, so download only the branch you need.**
 
 ```console
-shell$ git clone --depth=1 --branch v2020.2-desktop-rc1 git://github.com/ikwzm/ZynqMP-FPGA-Ubuntu20.04-Lima-Ultra96
+shell$ git clone --depth=1 --branch v2020.2-desktop-rc2 git://github.com/ikwzm/ZynqMP-FPGA-Ubuntu20.04-Lima-Ultra96
 shell$ cd ZynqMP-FPGA-Ubuntu20.04-Lima-Ultra96
 shell$ git lfs pull
 ```
